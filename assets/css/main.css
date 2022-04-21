@@ -2668,6 +2668,9 @@ input[type="button"],
 
 		.feature.left {
 			text-align: left;
+			margin-bottom: 50px;
+			margin-right: -50px;
+			margin-left: -50px;
 		}
 
 			.feature.left .image {
@@ -2680,11 +2683,14 @@ input[type="button"],
 				}
 
 			.feature.left .content {
-				padding-right: 0;
+				padding-right: 0px;
 			}
 
 		.feature.right {
 			text-align: right;
+			margin-bottom: 50px;
+			margin-right: -50px;
+			margin-left: -50px;
 		}
 
 			.feature.right .image {
